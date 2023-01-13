@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+    display: block;
+}
+
+#btn{
+    width: 150px;
+    padding: 10px;
+    margin: auto;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    display: block;
+}
+
+#sem{
+    width: 150px;
+    height: 380px;
+    border: solid 1px gray;
+    background-color: black;
+    border-radius: 5px;
+    margin: auto;
+    padding: 20px;
+}
+.circ{
+    width: 100px;
+    height: 100px;
+    border: solid 1px gray;
+    background-color: lightgrey;
+    border-radius: 100px;
+    margin: 20px;
+}
